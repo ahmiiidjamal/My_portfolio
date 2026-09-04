@@ -3,9 +3,18 @@ import Hero from './component/hero';
 import Footer from './component/footer';
 import Skills from './component/skills';
 import { getI18n } from '../locales/server'
+import { setStaticParamsLocale } from 'next-international/server'; // <-- التعديل هنا
 import Projects from './component/project';
 import Contact from './component/contact';
-export default async function Home() {
+
+type Props = {
+  params: Promise<{ locale: string }>;
+};
+
+export default async function Home({ params }: Props) {
+  const { locale } = await params;
+  setStaticParamsLocale(locale);
+
   const t = await getI18n()
 
   return (
