@@ -61,7 +61,7 @@ export default {
   'labelMassage':'الرسالة',
   'inputName':'أحمد محمد',
   'inputEmail':'ahmed@gmail.com',
-  'inputMassage':'كيف يمكنني مساعدتك؟',
+  'inputMessage':'كيف يمكنني مساعدتك؟',
     'send':'ارسال الرسالة',
 },
 

@@ -48,7 +48,7 @@ export default function Contact(){
 
                         <div className="flex flex-col gap-2">
                             <label className="font-mono text-[20px] text-[#414754]">{t('contact.labelMassage')}</label>
-                            <textarea id="message" placeholder={t('contact.inputMassage')}
+                            <textarea id="message" placeholder={t('contact.inputMessage')}
                                 className="bg-transparent border-0 border-b border-[#c1c6d7] focus:border-[#0058c3] focus:ring-0 px-0 py-2 text-[#1b1c1c] placeholder:text-[#c6c6c6] resize-none"></textarea>
                         </div>
 
