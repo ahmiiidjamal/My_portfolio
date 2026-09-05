@@ -37,19 +37,26 @@ export default {
     'mainWord': 'Featured Projects',
     'projectOne': {
       'mainWords': 'PC_Shop',
-      'explain': 'this is test',
-      'tecOne': 'React',
-      'teTwo': 'Zustand',
-      'tecThree': 'React Router',
+      'explain': 'This is one of the most significant projects I have designed, demonstrating my professional expertise; it was also my first project involving complex programming logic.',
+     
     },
 
     'projectTwo': {
-      'mainWords': 'portfolio',
-      'explain': 'this is another test',
-      'tecOne': 'HTML',
-      'teTwo': 'CSS',
-      'tecThree': 'JS',
+      'mainWords': 'To-do list',
+      'explain': 'This is a simple to-do list—one of the first projects I worked on using React.',
+      
     },
+    'projectThree':{
+  'mainWords':'Portfolio Website',
+  'explain':'A simple informational portfolio website.',
+ 
+},
+'projectFour':{
+  'mainWords':'Cleaning Booking Website',
+  'explain':'A cleaning service booking website (UI/UX design only, currently under development).',
+ 
+}
+
 
   },
 

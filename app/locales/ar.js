@@ -33,18 +33,24 @@ export default {
   'mainWord':'المشاريع المميزة',
 'projectOne':{
   'mainWords':'متجر بيع قطع الحاسوب',
-  'explain':'this is test',
-  'tecOne':'React',
-  'teTwo':'Zustand',
-  'tecThree':'React Router',
+  'explain':' هذا من اهم المشاريع التي صممتها والتي تدل على احترافية عملي وكان اول مشروع ذو كمنطق يرمجي معقد',
+ 
 },
 
 'projectTwo':{
-  'mainWords':'موقع شخصي تجريبي',
-  'explain':'this is another test',
-  'tecOne':'HTML',
-  'teTwo':'CSS',
-  'tecThree':'JS',
+  'mainWords':'قائمة المهام',
+  'explain':'هذه قائمة مهام بسيطة من أول المشاريع التي عملت عليها باسخدام رياكت ',
+ 
+},
+'projectThree':{
+  'mainWords':'موقع تعريفي',
+  'explain':'موقع تعريفي بسيط ',
+ 
+},
+'projectFour':{
+  'mainWords':'موقع حجوزات تنظيف',
+  'explain':'موقع حجوزات تنظيف تصميم واجهة فقط قيد تطوير',
+ 
 },
 
 },
