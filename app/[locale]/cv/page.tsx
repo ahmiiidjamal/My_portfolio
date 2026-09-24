@@ -81,14 +81,14 @@ export default function CV() {
                 <h2 className="text-[15px] font-bold tracking-widest border-b border-gray-200 pb-1 mt-7 mb-4 text-blue-600">PORTFOLIO
                 </h2>
                 <p className="text-sm text-gray-600 m-0 mb-4 text-justify">
-                    Personal Portfolio Website: <a href="https://yourportfolio.com" target="_blank"
-                        className="text-blue-600 underline">yourportfolio.com</a> (Visit to view my latest live frontend web deployment
+                    Personal Portfolio Website: <a href="https://my-portfolio-gkgh.vercel.app/ar" target="_blank"
+                        className="text-blue-600 underline">https://my-portfolio-gkgh.vercel.app/ar</a> (Visit to view my latest live frontend web deployment
                     projects).
                 </p>
 
                
                 <a
-                    href="https://drive.google.com/file/d/1M84C8cqveR2-C0YnuUUDm1h5L1El4xoD/view?usp=drive_link"
+                    href="https://docs.google.com/document/d/1wGVrHCwcSZmoXIx0n6tlni5BCAYnWfri/edit?usp=drive_link&ouid=112925029433957828926&rtpof=true&sd=true"
                     target="_blank"
                     className="bg-blue-600 text-white no-underline px-5 py-2.5 rounded hover:bg-blue-700 fixed bottom-5 left-5 shadow-md transition-colors">
                     Download CV

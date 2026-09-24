@@ -56,7 +56,7 @@ export default function Projects() {
 
                 {/* project 2 */}
                 <Link
-                    href='https://pc-shop-mu.vercel.app'
+                    href='https://pc-shop-alpha.vercel.app/'
                     target='_blank'>
 
                     <article className="group flex flex-col gap-4">
